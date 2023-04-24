@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 엄두용
+title: 서버 백엔드 엔지니어
+email: endyd1567@gmail.com (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://endyd1567.tistory.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
